@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @blessedqqw0
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning HTML and CSS
+- 💞️ I’m looking to collaborate on git hub 
+- 📫 How to reach me: instagram: blessedqqw_
